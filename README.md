@@ -67,7 +67,7 @@ the deliverable markdown file as a numbered list like this:
     with code, you may.
 
 #### Steps that will be useful for blog
-
+# Data Orginization and Transformation
 - TODO: Create a top-level heading in blogpost.md that says `Data Organization and Transformation`
 - TODO: Create an H2 heading in blogpost.md that says `References`
 - TODO: Create at least 3 other headings with reasonable text to describe what you are doing
@@ -81,9 +81,9 @@ the deliverable markdown file as a numbered list like this:
 
 - Number of initial variables:
 - Number of initial observations:
-- List of variable names:
-- Range of `rawdata`:
-- Range of `y`:
+- List of variable names: order-in-pattern, pattern, rawdata, sign, transformation1, transformation2, transformation3, distance, transformation4, y
+- Range of `rawdata`: 10.18192639
+- Range of `y`: 63.26
 
 <br>
 
