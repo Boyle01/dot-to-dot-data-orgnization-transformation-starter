@@ -67,7 +67,7 @@ the deliverable markdown file as a numbered list like this:
     with code, you may.
 
 #### Steps that will be useful for blog
-
+# Data Organization and Data Transformation
 - TODO: Create a top-level heading in blogpost.md that says `Data Organization and Transformation`
 - TODO: Create an H2 heading in blogpost.md that says `References`
 - TODO: Create at least 3 other headings with reasonable text to describe what you are doing
