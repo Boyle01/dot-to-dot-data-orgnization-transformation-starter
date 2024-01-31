@@ -67,7 +67,10 @@ the deliverable markdown file as a numbered list like this:
     with code, you may.
 
 #### Steps that will be useful for blog
-
+# Data Organization and Transformation
+## Section 1
+## Section 2
+## Section 3
 - TODO: Create a top-level heading in blogpost.md that says `Data Organization and Transformation`
 - TODO: Create an H2 heading in blogpost.md that says `References`
 - TODO: Create at least 3 other headings with reasonable text to describe what you are doing
@@ -176,7 +179,7 @@ does and looks like, please make sure that you answer the following questions.
     - to make a file in VS Code, you can right click, select `New File...`
     - type in the name `data-complete.md`
 - TODO: copy and paste your final data spread sheet into `data-complete.md`
-
+## References
 ## Resources
 
 1. https://commonmark.org/help/
